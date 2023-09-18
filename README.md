@@ -1,6 +1,6 @@
 "# Dashboard" 
-This is a State-wise Capital invested in India Dashboard.
-To Run the Dashboard:
+"This is a State-wise Capital invested in India Dashboard."
+"To Run the Dashboard:"
 1. Download the zip file from the Github
 2. Extract the File
 3. Open Command Prompt and cd the folder
